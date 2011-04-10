@@ -115,5 +115,7 @@ describe User do
         matching_user.should == @user
       end
     end
+
   end  
+
 end
